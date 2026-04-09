@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /supervision/
 title: Supervision
 description: current students
 nav: true
