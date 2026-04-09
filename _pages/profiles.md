@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: Supervision
 description: current students
 nav: true
 nav_order: 7
