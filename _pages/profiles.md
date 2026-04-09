@@ -1,28 +1,28 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Supervision
+description: current students
 nav: true
 nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: prof_pic_melanie.jpg
+    content: about_melanie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>[WACV 2026]</p>
+  - align: left
+    image: prof_pic_faye.jpg
+    content: about_faye.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+ - align: left
+    image: prof_pic_venuri.jpg
+    content: about_venuri.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 ---
