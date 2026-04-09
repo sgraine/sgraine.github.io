@@ -20,7 +20,7 @@ profiles:
     content: about_faye.md
     image_circular: false # crops the image to make it circular
     more_info:
- - align: left
+  - align: left
     image: prof_pic_venuri.jpg
     content: about_venuri.md
     image_circular: false # crops the image to make it circular
