@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-supervision",
           title: "Supervision",
-          description: "Currently accepting applications for PhD students. Check out examples of topics [here](https://www.qut.edu.au/research/study-with-us/student-topics/topics/scene-understanding-for-underwater-imagery).  If interested, please email your CV and academic transcripts to [sg.raine@qut.edu.au](mailto:sg.raine@qut.edu.au).",
+          description: "current students",
           section: "Navigation",
           handler: () => {
             window.location.href = "/supervision/";
