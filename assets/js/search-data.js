@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-supervision",
+          title: "Supervision",
+          description: "Currently accepting applications for PhD students. Check out examples of topics here. If interested, please email your CV and academic transcripts to sg.raine@qut.edu.au.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/supervision/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
