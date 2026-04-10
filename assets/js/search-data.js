@@ -412,15 +412,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-awarded-the-atse-technology-scholarship-to-attend-science-meets-parliament-2026",
+          section: "News",},{id: "news-invited-as-distinguished-lecturer-at-seaclear-1-0-and-2-0-projects-winter-school",
+          title: 'Invited as Distinguished Lecturer at SeaClear 1.0 and 2.0 Projects Winter School',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-awarded-the-atse-technology-scholarship-to-attend-science-meets-parliament-2026",
           title: 'Awarded the ATSE Technology Scholarship to attend Science Meets Parliament 2026!',
           description: "",
           section: "News",},{id: "projects-project-1",
