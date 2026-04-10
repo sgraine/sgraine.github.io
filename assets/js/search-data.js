@@ -412,10 +412,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-another-successful-robotic-vision-summer-school",
+          title: 'Another successful Robotic Vision Summer School!',
           description: "",
-          section: "News",},{id: "news-invited-as-distinguished-lecturer-at-seaclear-1-0-and-2-0-projects-winter-school",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-invited-as-distinguished-lecturer-at-seaclear-1-0-and-2-0-projects-winter-school",
           title: 'Invited as Distinguished Lecturer at SeaClear 1.0 and 2.0 Projects Winter School',
           description: "",
           section: "News",handler: () => {
