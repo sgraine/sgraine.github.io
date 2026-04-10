@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Lecturer in the School of Electrical Engineering and Robotics, Queensland University of Technology and Chief Investigator in the QUT Centre of Robotics
 
