@@ -24,7 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+
 Queensland University of Technology
+
 
 Dr Scarlett Raine is a Lecturer at the Queensland University of Technology's School of Electrical Engineering and Robotics, and a Chief Investigator in the [QUT Centre for Robotics](https://research.qut.edu.au/qcr/). She pioneers the use of computer vision, AI and robotics to automatically analyse underwater imagery and monitor marine ecosystems more efficiently, earning the Executive Dean’s Commendation for Outstanding Doctoral Thesis in 2024. She brings her expertise to the Reef Restoration and Adaptation Program as a Chief Investigator on the $3.5m [Translation to Deployment](https://gbrrestoration.org/program/translation-to-deployment/) sub-program, where she is developing an AI-driven Reef Guidance System for automated re-seeding of temperature-resilient coral babies to degraded reefs. Dr Raine is a published researcher in computer vision and artificial intelligence for challenging applied robotics and environmental monitoring problems, with papers published in AAAI, RAL, WACV, CVPR-W, ICRA, JOE and DICTA. Dr Raine's innovative research and commitment to diversity were recognised in 2025 with the Pearcey CICTA Rising Star award and Highly Commended at the Women in Technology Awards, where she was a finalist in the Emerging Tech and Emerging Science Star categories. 
 
