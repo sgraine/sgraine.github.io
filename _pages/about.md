@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Lecturer (US: Assistant Professor) and Chief Investigator \nand Queensland University of Technology"
+subtitle: "Lecturer (US: Assistant Professor) and Chief Investigator \n Queensland University of Technology"
 
 profile:
   align: right
