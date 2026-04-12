@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /supervision/
 title: Supervision
-description: "Currently accepting applications for PhD students. Check out examples of topics <a href="https://www.qut.edu.au/research/study-with-us/student-topics/topics/scene-understanding-for-underwater-imagery">here</a>. If interested, please email your CV and academic transcripts to <a href="mailto:sg.raine@qut.edu.au">sg.raine@qut.edu.au</a>."
+description: Currently accepting applications for PhD students. Check out examples of topics <a href="https://www.qut.edu.au/research/study-with-us/student-topics/topics/scene-understanding-for-underwater-imagery">here</a>. If interested, please email your CV and academic transcripts to <a href="mailto:sg.raine@qut.edu.au">sg.raine@qut.edu.au</a>.
 nav: true
 nav_order: 6
 
