@@ -13,7 +13,7 @@ profiles:
     image: prof_pic_melanie.jpg
     content: about_melanie.md
     image_circular: false # crops the image to make it circular
-    more_info: more_info: "<p><a href='https://your-link-here.com' style='display:inline-block; padding:4px 10px; border-radius:12px; background-color:#eae6ff; color:#5a4fcf; text-decoration:none;'>WACV 2026</a></p>"
+    more_info: "<p><a href='https://your-link-here.com' style='display:inline-block; padding:4px 10px; border-radius:12px; background-color:#eae6ff; color:#5a4fcf; text-decoration:none;'>WACV 2026</a></p>"
   - align: left
     image: prof_pic_faye.jpg
     content: about_faye.md
