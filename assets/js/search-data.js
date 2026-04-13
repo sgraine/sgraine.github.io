@@ -470,8 +470,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-foundations-of-electrical-engineering",
-          title: 'Foundations of Electrical Engineering',
+            },},{id: "teachings-egb120-foundations-of-electrical-engineering",
+          title: 'EGB120 - Foundations of Electrical Engineering',
           description: "In this foundational engineering unit you will learn concepts around the relationship between electrical energy, electronic instrumentation and measurements. This is key to begin your journey towards being a professional engineer. This unit introduces techniques for circuit analysis, instruments for measurement and practical applications in an engineering context. The ability to analyse and understand electrical circuits and related concepts plays a key role in most engineering disciplines and is highly useful not only for electrical engineers (electronics and mechatronic) but also for mechanical, biomedical, aerospace, and materials engineers. EGB120 combines real-world focused lectures, tutorials and practicals to give a hands-on experience learning about these fundamental skills. The concepts in this unit will be built upon in future engineering units and teach key fundamental concepts relevant to all engineering majors.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/elec-eng/";
