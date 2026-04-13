@@ -78,8 +78,7 @@ cv:
         summary: >
           Lead research fellow on the Reef Deployment Guidance System in collaboration with AIMS.
         highlights:
-          - Developed AI systems for autonomous coral reseeding deployment
-          - Focused on improving reef resilience and coral coverage
+          - Developed AI systems for autonomous, targeted deployment of coral reseeding devices
     
       - company: Queensland University of Technology (QUT)
         position: Sessional Academic
@@ -87,8 +86,7 @@ cv:
         start_date: 2019-07
         end_date: 2023-12
         highlights:
-          - Delivered teaching across electrical engineering, AI, control systems, and computer science
-          - Led redesign of EGB340 (Design and Practice)
+          - Teaching across electrical engineering, AI, control systems, and computer science
     
       - company: Australian Government – Department of Climate Change, Energy, the Environment and Water
         position: Policy Officer
@@ -98,7 +96,7 @@ cv:
         summary: >
           Worked in the Biodiversity Markets Branch on the Nature Repair Market.
         highlights:
-          - Managed planning and execution of an $8M biodiversity monitoring grants program
+          - Planning and execution of an $8M biodiversity monitoring grants program
           - Developed policy documents, grant guidelines, and stakeholder engagement processes
     
       - company: CSIRO Data61
@@ -112,6 +110,11 @@ cv:
           - Designed starfish detection system for Great Barrier Reef monitoring
     
     Awards:
+      - title: ATSE Technology Scholarship for Science Meets Parliament
+        date: 2026
+        awarder: Australian Academy of Technological Sciences and Engineering
+        summary: Awarded a scholarship to attend Australia’s premier initiative for connecting research with policy
+    
       - title: Vice-Chancellor’s Award for Excellence
         date: 2025
         awarder: Queensland University of Technology
@@ -172,27 +175,27 @@ cv:
           - B. Kusy
           - F. Maire
           - T. Fischer
-        publisher: WACV
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision
         releaseDate: 2024
     
     Skills:
       - name: Artificial Intelligence and Computer Vision
         level: Expert
         icon: fa-solid fa-robot
-        keywords: "Deep Learning, Computer Vision, Weakly Supervised Learning, Underwater Perception, Robotics"
+        keywords: "Deep Learning, Computer Vision, Weakly Supervised Learning, Underwater Perception"
     
-      - name: Robotics and Environmental Monitoring
+      - name: Marine Ecosystem Monitoring and Conservation
         level: Expert
         icon: fa-solid fa-water
-        keywords: "Marine Robotics, Coral Reef Monitoring, Seagrass Analysis, Autonomous Systems"
-    
-    Languages:
-      - name: English
-        summary: Native / Fluent
-    
+        keywords: "Marine Robotics, Coral Reef Monitoring, Reef Restoration, Seagrass Mapping"
+       
     Interests:
-      - name: Marine Conservation Technology
+      - name: Marine Conservation
         icon: fa-solid fa-fish
+        keywords: "Coral Reefs, Seagrass Ecosystems, Biodiversity Monitoring, AI for Science"
+        
+      - name: Robotics and AI
+        icon: fa-solid fa-robot
         keywords: "Coral Reefs, Seagrass Ecosystems, Biodiversity Monitoring, AI for Science"
     
     Certificates:
@@ -205,7 +208,7 @@ cv:
         issuer: Queensland University of Technology
     
     Projects:
-      - name: Reef Deployment Guidance System
+      - name: Reef Guidance System
         summary: >
           AI system for autonomous deployment of coral reseeding devices to support reef restoration.
         highlights:
