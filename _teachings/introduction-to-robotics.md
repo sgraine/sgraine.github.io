@@ -23,7 +23,7 @@ This unit introduces the fundamental concepts and algorithms of robotics and com
 - You will learn how to solve typical fundamental real-world computer vision and robotics problems.
 - You will build from this unit in EGB439 (Advanced Robotics).
 
-## Learning outcomes
+## Learning Outcomes
 On successful completion of this unit you will be able to:
 
 - Recognise and evaluate realistic problems in robotics and computer vision at an introductory level.
