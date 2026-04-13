@@ -477,7 +477,7 @@ ninja.data = [{
               window.location.href = "/teachings/elec-eng/";
             },},{id: "teachings-egb339-introduction-to-robotics",
           title: 'EGB339 - Introduction to Robotics',
-          description: "This unit introduces the fundamental concepts and algorithms of robotics and computer vision.",
+          description: "This unit introduces the fundamental concepts and algorithms of robotics and computer vision.  In this unit, you will get an introduction to the foundational topics of kinematics and computer vision. Together, we will delve into the world of robotic arms and manipulation, and learn how to equip a robotic software system with vision and basic intelligence.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-robotics/";
             },},{
