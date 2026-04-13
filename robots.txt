@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://scarlettraine.com/sitemap.xml
+Sitemap: https://www.scarlettraine.com/sitemap.xml
