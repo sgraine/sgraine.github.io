@@ -44,183 +44,183 @@ cv:
         highlights:
           - Class Valedictorian
           
-  Experience:
-    - company: QUT Centre for Robotics
-      position: Chief Investigator and Lecturer (Assistant Professor)
-      location: Brisbane, Australia
-      start_date: 2025-08
-      end_date: present
-      summary: >
-        Chief Investigator and Lecturer in robotics and AI, leading research in underwater perception and environmental monitoring.
-      highlights:
-        - Teaching undergraduate engineering units including Introduction to Robotics and Foundations of Electrical Engineering
-        - Leading research in AI-driven marine robotics and environmental monitoring
-  
-    - company: QUT Centre for Environment and Society; QUT Centre for Data Science
-      position: Associate Investigator
-      location: Brisbane, Australia
-      start_date: 2025-08
-      end_date: present
-  
-    - company: Reef Restoration and Adaptation Program (RRAP)
-      position: Chief Investigator (Translation to Deployment)
-      location: Australia
-      start_date: 2025-08
-      end_date: present
-      summary: >
-        Leading technology development for coral restoration, focusing on deployment readiness and automation for reef interventions.
-  
-    - company: QUT Centre for Robotics
-      position: Research Fellow
-      location: Brisbane, Australia
-      start_date: 2024-08
-      end_date: 2025-08
-      summary: >
-        Lead research fellow on the Reef Deployment Guidance System in collaboration with AIMS.
-      highlights:
-        - Developed AI systems for autonomous coral reseeding deployment
-        - Focused on improving reef resilience and coral coverage
-  
-    - company: Queensland University of Technology (QUT)
-      position: Sessional Academic
-      location: Brisbane, Australia
-      start_date: 2019-07
-      end_date: 2023-12
-      highlights:
-        - Delivered teaching across electrical engineering, AI, control systems, and computer science
-        - Led redesign of EGB340 (Design and Practice)
-  
-    - company: Australian Government – Department of Climate Change, Energy, the Environment and Water
-      position: Policy Officer
-      location: Australia
-      start_date: 2023-03
-      end_date: 2023-07
-      summary: >
-        Worked in the Biodiversity Markets Branch on the Nature Repair Market.
-      highlights:
-        - Managed planning and execution of an $8M biodiversity monitoring grants program
-        - Developed policy documents, grant guidelines, and stakeholder engagement processes
-  
-    - company: CSIRO Data61
-      position: Research Intern
-      location: Australia
-      start_date: 2019-11
-      end_date: 2020-08
-      summary: >
-        Developed deep learning methods for marine species detection.
-      highlights:
-        - Designed starfish detection system for Great Barrier Reef monitoring
-  
-  Awards:
-    - title: Vice-Chancellor’s Award for Excellence
-      date: 2025
-      awarder: Queensland University of Technology
-      summary: Recognises excellence in partnerships, engagement, and impact
-  
-    - title: CICTA Pearcey Rising Star Award
-      date: 2025
-      awarder: CICTA
-      summary: Recognition of early-career leadership in Queensland’s tech sector
-  
-    - title: Women in Technology Awards – Highly Commended (Emerging Tech Star)
-      date: 2025
-      awarder: Women in Technology
-      summary: Recognition for contributions to emerging technology and innovation
-  
-    - title: Executive Dean’s Commendation for Outstanding Doctoral Thesis
-      date: 2024
-      awarder: QUT Faculty of Engineering
-      summary: Awarded for outstanding PhD thesis
-  
-    - title: Outstanding Learning and Teaching Award
-      date: 2022
-      awarder: QUT School of Electrical Engineering and Robotics
-  
-  Publications:
-    - title: Human-in-the-Loop Segmentation of Multi-species Coral Imagery
-      authors:
-        - Scarlett Raine
-        - R. Marchant
-        - B. Kusy
-        - F. Maire
-        - N. Suenderhauf
-        - T. Fischer
-      publisher: IEEE Journal of Oceanic Engineering
-      releaseDate: 2025
-  
-    - title: Point Label Aware Superpixels for Multi-Species Segmentation of Underwater Imagery
-      authors:
-        - Scarlett Raine
-        - R. Marchant
-        - B. Kusy
-        - F. Maire
-        - T. Fischer
-      publisher: IEEE Robotics and Automation Letters
-      releaseDate: 2022
-  
-    - title: "AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring"
-      authors:
-        - Scarlett Raine
-        - T. Fischer
-      publisher: AAAI Conference on Artificial Intelligence
-      releaseDate: 2026
-  
-    - title: Image Labels Are All You Need for Coarse Seagrass Segmentation
-      authors:
-        - Scarlett Raine
-        - R. Marchant
-        - B. Kusy
-        - F. Maire
-        - T. Fischer
-      publisher: WACV
-      releaseDate: 2024
-  
-  Skills:
-    - name: Artificial Intelligence and Computer Vision
-      level: Expert
-      icon: fa-solid fa-robot
-      keywords: "Deep Learning, Computer Vision, Weakly Supervised Learning, Underwater Perception, Robotics"
-  
-    - name: Robotics and Environmental Monitoring
-      level: Expert
-      icon: fa-solid fa-water
-      keywords: "Marine Robotics, Coral Reef Monitoring, Seagrass Analysis, Autonomous Systems"
-  
-  Languages:
-    - name: English
-      summary: Native / Fluent
-  
-  Interests:
-    - name: Marine Conservation Technology
-      icon: fa-solid fa-fish
-      keywords: "Coral Reefs, Seagrass Ecosystems, Biodiversity Monitoring, AI for Science"
-  
-  Certificates:
-    - name: PhD in Artificial Intelligence and Computer Vision
-      date: 2024
-      issuer: Queensland University of Technology
-  
-    - name: Bachelor of Engineering (First Class Honours)
-      date: 2020
-      issuer: Queensland University of Technology
-  
-  Projects:
-    - name: Reef Deployment Guidance System
-      summary: >
-        AI system for autonomous deployment of coral reseeding devices to support reef restoration.
-      highlights:
-        - Autonomous decision-making for reef intervention
-        - Collaboration with AIMS under RRAP
-      start_date: 2024-08
-      end_date: 2025-08
-  
-    - name: Weakly Supervised Underwater Segmentation
-      summary: >
-        Development of annotation-efficient deep learning methods for underwater imagery.
-      start_date: 2020-08
-      end_date: 2024-05
-  
-  References:
-    - name: Available upon request
-      icon: fa-solid fa-user
-      reference: Professional references available upon request
+    Experience:
+      - company: QUT Centre for Robotics
+        position: Chief Investigator and Lecturer (Assistant Professor)
+        location: Brisbane, Australia
+        start_date: 2025-08
+        end_date: present
+        summary: >
+          Chief Investigator and Lecturer in robotics and AI, leading research in underwater perception and environmental monitoring.
+        highlights:
+          - Teaching undergraduate engineering units including Introduction to Robotics and Foundations of Electrical Engineering
+          - Leading research in AI-driven marine robotics and environmental monitoring
+    
+      - company: QUT Centre for Environment and Society; QUT Centre for Data Science
+        position: Associate Investigator
+        location: Brisbane, Australia
+        start_date: 2025-08
+        end_date: present
+    
+      - company: Reef Restoration and Adaptation Program (RRAP)
+        position: Chief Investigator (Translation to Deployment)
+        location: Australia
+        start_date: 2025-08
+        end_date: present
+        summary: >
+          Leading technology development for coral restoration, focusing on deployment readiness and automation for reef interventions.
+    
+      - company: QUT Centre for Robotics
+        position: Research Fellow
+        location: Brisbane, Australia
+        start_date: 2024-08
+        end_date: 2025-08
+        summary: >
+          Lead research fellow on the Reef Deployment Guidance System in collaboration with AIMS.
+        highlights:
+          - Developed AI systems for autonomous coral reseeding deployment
+          - Focused on improving reef resilience and coral coverage
+    
+      - company: Queensland University of Technology (QUT)
+        position: Sessional Academic
+        location: Brisbane, Australia
+        start_date: 2019-07
+        end_date: 2023-12
+        highlights:
+          - Delivered teaching across electrical engineering, AI, control systems, and computer science
+          - Led redesign of EGB340 (Design and Practice)
+    
+      - company: Australian Government – Department of Climate Change, Energy, the Environment and Water
+        position: Policy Officer
+        location: Australia
+        start_date: 2023-03
+        end_date: 2023-07
+        summary: >
+          Worked in the Biodiversity Markets Branch on the Nature Repair Market.
+        highlights:
+          - Managed planning and execution of an $8M biodiversity monitoring grants program
+          - Developed policy documents, grant guidelines, and stakeholder engagement processes
+    
+      - company: CSIRO Data61
+        position: Research Intern
+        location: Australia
+        start_date: 2019-11
+        end_date: 2020-08
+        summary: >
+          Developed deep learning methods for marine species detection.
+        highlights:
+          - Designed starfish detection system for Great Barrier Reef monitoring
+    
+    Awards:
+      - title: Vice-Chancellor’s Award for Excellence
+        date: 2025
+        awarder: Queensland University of Technology
+        summary: Recognises excellence in partnerships, engagement, and impact
+    
+      - title: CICTA Pearcey Rising Star Award
+        date: 2025
+        awarder: CICTA
+        summary: Recognition of early-career leadership in Queensland’s tech sector
+    
+      - title: Women in Technology Awards – Highly Commended (Emerging Tech Star)
+        date: 2025
+        awarder: Women in Technology
+        summary: Recognition for contributions to emerging technology and innovation
+    
+      - title: Executive Dean’s Commendation for Outstanding Doctoral Thesis
+        date: 2024
+        awarder: QUT Faculty of Engineering
+        summary: Awarded for outstanding PhD thesis
+    
+      - title: Outstanding Learning and Teaching Award
+        date: 2022
+        awarder: QUT School of Electrical Engineering and Robotics
+    
+    Publications:
+      - title: Human-in-the-Loop Segmentation of Multi-species Coral Imagery
+        authors:
+          - Scarlett Raine
+          - R. Marchant
+          - B. Kusy
+          - F. Maire
+          - N. Suenderhauf
+          - T. Fischer
+        publisher: IEEE Journal of Oceanic Engineering
+        releaseDate: 2025
+    
+      - title: Point Label Aware Superpixels for Multi-Species Segmentation of Underwater Imagery
+        authors:
+          - Scarlett Raine
+          - R. Marchant
+          - B. Kusy
+          - F. Maire
+          - T. Fischer
+        publisher: IEEE Robotics and Automation Letters
+        releaseDate: 2022
+    
+      - title: "AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring"
+        authors:
+          - Scarlett Raine
+          - T. Fischer
+        publisher: AAAI Conference on Artificial Intelligence
+        releaseDate: 2026
+    
+      - title: Image Labels Are All You Need for Coarse Seagrass Segmentation
+        authors:
+          - Scarlett Raine
+          - R. Marchant
+          - B. Kusy
+          - F. Maire
+          - T. Fischer
+        publisher: WACV
+        releaseDate: 2024
+    
+    Skills:
+      - name: Artificial Intelligence and Computer Vision
+        level: Expert
+        icon: fa-solid fa-robot
+        keywords: "Deep Learning, Computer Vision, Weakly Supervised Learning, Underwater Perception, Robotics"
+    
+      - name: Robotics and Environmental Monitoring
+        level: Expert
+        icon: fa-solid fa-water
+        keywords: "Marine Robotics, Coral Reef Monitoring, Seagrass Analysis, Autonomous Systems"
+    
+    Languages:
+      - name: English
+        summary: Native / Fluent
+    
+    Interests:
+      - name: Marine Conservation Technology
+        icon: fa-solid fa-fish
+        keywords: "Coral Reefs, Seagrass Ecosystems, Biodiversity Monitoring, AI for Science"
+    
+    Certificates:
+      - name: PhD in Artificial Intelligence and Computer Vision
+        date: 2024
+        issuer: Queensland University of Technology
+    
+      - name: Bachelor of Engineering (First Class Honours)
+        date: 2020
+        issuer: Queensland University of Technology
+    
+    Projects:
+      - name: Reef Deployment Guidance System
+        summary: >
+          AI system for autonomous deployment of coral reseeding devices to support reef restoration.
+        highlights:
+          - Autonomous decision-making for reef intervention
+          - Collaboration with AIMS under RRAP
+        start_date: 2024-08
+        end_date: 2025-08
+    
+      - name: Weakly Supervised Underwater Segmentation
+        summary: >
+          Development of annotation-efficient deep learning methods for underwater imagery.
+        start_date: 2020-08
+        end_date: 2024-05
+    
+    References:
+      - name: Available upon request
+        icon: fa-solid fa-user
+        reference: Professional references available upon request
