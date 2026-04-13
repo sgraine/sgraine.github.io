@@ -1,7 +1,7 @@
 ---
 layout: course
 title: EGB339 - Introduction to Robotics
-description: This unit introduces the fundamental concepts and algorithms of robotics and computer vision.
+description: This unit introduces the fundamental concepts and algorithms of robotics and computer vision.  In this unit, you will get an introduction to the foundational topics of kinematics and computer vision. Together, we will delve into the world of robotic arms and manipulation, and learn how to equip a robotic software system with vision and basic intelligence.
 instructor: Dr Tobias Fischer and Dr Scarlett Raine
 year: 2025-2026
 term: 
@@ -29,5 +29,5 @@ On successful completion of this unit you will be able to:
 - Recognise and evaluate realistic problems in robotics and computer vision at an introductory level.
 - Implement fundamental computer vision and robotics algorithms to solve realistic engineering problems, at an introductory level.
 - Develop and implement mathematical models and algorithms to describe and control the kinematic structure of a multi-link robot arm at an introductory level.
-- Use recognised project planning and management techniques to complete practical projects, at a developed level.This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+- Use recognised project planning and management techniques to complete practical projects, at a developed level.This introductory course on machine learning covers fundamental concepts and algorithms in the field.
 
