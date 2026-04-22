@@ -35,9 +35,9 @@ Dr Scarlett Raine is a Lecturer at the Queensland University of Technology's Sch
 Dr Raine is a published researcher in computer vision and artificial intelligence for challenging applied robotics and environmental monitoring problems, with papers published in AAAI, RAL, WACV, CVPR-W, ICRA, JOE and DICTA. Dr Raine's innovative research and commitment to diversity were recognised in 2025 with the Pearcey CICTA Rising Star award and Highly Commended at the Women in Technology Awards, where she was a finalist in the Emerging Tech and Emerging Science Star categories. 
 
 <iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/JuBVYVb2Qc8"
+  width="280"
+  height="157"
+  src="https://www.youtube.com/watch?v=VJjxnlic0FQ"
   frameborder="0"
   allowfullscreen>
 </iframe>
