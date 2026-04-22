@@ -37,7 +37,7 @@ Dr Raine is a published researcher in computer vision and artificial intelligenc
 <iframe
   width="280"
   height="157"
-  src="https://www.youtube.com/watch?v=VJjxnlic0FQ"
+  src="https://www.youtube.com/embed/VJjxnlic0FQ"
   frameborder="0"
   allowfullscreen>
 </iframe>
