@@ -4,7 +4,7 @@ permalink: /supervision/
 title: Supervision
 description: 
 intro: >
-**Currently accepting applications for PhD students. **
+  Currently accepting applications for PhD students.
 
   Underwater ecosystems, including coral reefs and seagrass meadows, play a critical role in maintaining marine biodiversity, providing coastal protection, and supporting fisheries and tourism economies that millions depend upon globally. These habitats are increasingly vulnerable to climate change, pollution, and     other anthropogenic impacts, demanding urgent efforts to monitor and restore them. Accurate scene understanding of underwater imagery enables fine-scale ecosystem monitoring across spatial and temporal scales, supporting essential activities such as habitat and biodiversity assessment, validation of aerial and remotely sensed data, and targeted reef restoration interventions.
   
