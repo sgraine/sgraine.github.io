@@ -4,13 +4,19 @@ permalink: /supervision/
 title: Supervision
 description: 
 intro: >
-  Currently accepting applications for PhD students.
+  **Currently accepting applications for PhD students.**
+
 
   Underwater ecosystems, including coral reefs and seagrass meadows, play a critical role in maintaining marine biodiversity, providing coastal protection, and supporting fisheries and tourism economies that millions depend upon globally. These habitats are increasingly vulnerable to climate change, pollution, and     other anthropogenic impacts, demanding urgent efforts to monitor and restore them. Accurate scene understanding of underwater imagery enables fine-scale ecosystem monitoring across spatial and temporal scales, supporting essential activities such as habitat and biodiversity assessment, validation of aerial and remotely sensed data, and targeted reef restoration interventions.
+
   
   We are looking for passionate and diligent PhD students to work with us on challenging, real-world tasks in underwater perception. Whether you are driven by marine conservation and making a difference, or if you're passionate about designing cutting-edge AI for complex environments, we'd love to hear from you!
+
   
   Check out examples of topics <a href="https://www.qut.edu.au/research/study-with-us/student-topics/topics/scene-understanding-for-underwater-imagery">here</a>. If interested, please email your CV and academic transcripts to <a href="mailto:sg.raine@qut.edu.au">sg.raine@qut.edu.au</a>.
+
+
+  **Current Students:**
 nav: true
 nav_order: 6
 
