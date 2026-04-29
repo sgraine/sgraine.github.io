@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-seminar-series",
+          title: "Seminar Series",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/github.com/sgraine/marine-robotics-seminars";
+          },
         },{id: "nav-supervision",
           title: "Supervision",
           description: "",
