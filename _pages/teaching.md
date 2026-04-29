@@ -10,7 +10,7 @@ calendar: false
 
 **Teaching Overview**
 
-Dr Raine is an enthusiastic, dedicated and award-winning teacher.  She is currently co-unit coordinator and lecturer of EGB339: Introduction to Robotics and EGB120: Foundations of Electrical Engineering, and has over five years of sessional academic experience spanning control and dynamic systems, electrical engineering, artificial intelligence, and engineering design and professional practice. She is committed to improving diversity and gender representation in the field of engineering and is a member of QUT's Ally Network.  Dr Raine is also the creator and organiser of the QUT Centre for Robotics [Marine Robotics reading group](https://www.youtube.com/playlist?list=PLW0SnlaJEhlBK37X9IdLt1lqHxAaK8git). 
+Dr Raine is an enthusiastic, dedicated and award-winning teacher.  She is currently co-unit coordinator and lecturer of EGB339: Introduction to Robotics and EGB120: Foundations of Electrical Engineering, and has over five years of sessional academic experience spanning control and dynamic systems, electrical engineering, artificial intelligence, and engineering design and professional practice. She is committed to improving diversity and gender representation in the field of engineering and is a member of QUT's Ally Network.  Dr Raine is also the creator and organiser of the QUT Centre for Robotics Marine Robotics Seminar Series: [Information Page](https://www.scarlettraine.com/marine-robotics-seminars/) and [YouTube](https://www.youtube.com/playlist?list=PLW0SnlaJEhlBK37X9IdLt1lqHxAaK8git). 
 
 **Teaching Philosophy**
 
