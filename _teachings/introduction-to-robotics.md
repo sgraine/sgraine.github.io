@@ -3,7 +3,7 @@ layout: course
 title: EGB339 - Introduction to Robotics
 description: This unit introduces the fundamental concepts and algorithms of robotics and computer vision.  In this unit, you will get an introduction to the foundational topics of kinematics and computer vision. Together, we will delve into the world of robotic arms and manipulation, and learn how to equip a robotic software system with vision and basic intelligence.
 instructor: Dr Tobias Fischer and Dr Scarlett Raine
-year: 2025-2026
+year: 2025 - Current
 term: 
 location: 
 time: 
