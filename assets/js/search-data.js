@@ -475,6 +475,11 @@ ninja.data = [{
           description: "In this foundational engineering unit you will learn concepts around the relationship between electrical energy, electronic instrumentation and measurements. This is key to begin your journey towards being a professional engineer. This unit introduces techniques for circuit analysis, instruments for measurement and practical applications in an engineering context. The ability to analyse and understand electrical circuits and related concepts plays a key role in most engineering disciplines and is highly useful not only for electrical engineers (electronics and mechatronic) but also for mechanical, biomedical, aerospace, and materials engineers. EGB120 combines real-world focused lectures, tutorials and practicals to give a hands-on experience learning about these fundamental skills. The concepts in this unit will be built upon in future engineering units and teach key fundamental concepts relevant to all engineering majors.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/elec-eng/";
+            },},{id: "teachings-egh490-1-and-egh490-2-final-year-project",
+          title: 'EGH490-1 and EGH490-2 - Final Year Project',
+          description: "In this integrated capstone project of your Bachelor of Engineering (Hons) degree you will hone your knowledge and skills bases in preparation for graduate work or further studies. You will learn engineering project design, methodology and management, advancement of discipline knowledge and skills, risk, ethics and sustainability in a project environment, and reporting and presenting project stages.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/hons-projects/";
             },},{id: "teachings-egb339-introduction-to-robotics",
           title: 'EGB339 - Introduction to Robotics',
           description: "This unit introduces the fundamental concepts and algorithms of robotics and computer vision.  In this unit, you will get an introduction to the foundational topics of kinematics and computer vision. Together, we will delve into the world of robotic arms and manipulation, and learn how to equip a robotic software system with vision and basic intelligence.",
