@@ -3,7 +3,7 @@ layout: course
 title: EGH490-1 and EGH490-2 - Final Year Project
 description: In this integrated capstone project of your Bachelor of Engineering (Hons) degree you will hone your knowledge and skills bases in preparation for graduate work or further studies. You will learn engineering project design, methodology and management, advancement of discipline knowledge and skills, risk, ethics and sustainability in a project environment, and reporting and presenting project stages.
 instructor: Dr Scarlett Raine
-year: 2024-current
+year: 2024 - Current
 term: 
 location: 
 time: 
