@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seminar Series
-permalink: https://github.com/sgraine/marine-robotics-seminars
+permalink: https://www.scarlettraine.com/marine-robotics-seminars/
 description: 
 nav: true
 nav_order: 6
