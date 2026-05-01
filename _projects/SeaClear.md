@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invited Lecture - SeaClear 2.0 Winter School 2026
+title: Invited Lecture at SeaClear 2.0 Winter School 2026
 description: Technical University of Munich SeaClear2.0 Winter School
 img:
 importance: 1
