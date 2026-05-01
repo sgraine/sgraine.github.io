@@ -472,9 +472,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-keynote-spin-2025",
+          title: 'Keynote - SPIN 2025',
+          description: "Keynote address - 12th International Conference on Signal Processing and Integrated Networks, 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SPIN-keynote/";
             },},{id: "teachings-egb120-foundations-of-electrical-engineering",
