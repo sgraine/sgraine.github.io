@@ -477,8 +477,8 @@ ninja.data = [{
           description: "Keynote address - 12th International Conference on Signal Processing and Integrated Networks, 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SPIN-keynote/";
-            },},{id: "projects-invited-lecture-seaclear-2-0-winter-school-2026",
-          title: 'Invited Lecture - SeaClear 2.0 Winter School 2026',
+            },},{id: "projects-invited-lecture-at-seaclear-2-0-winter-school-2026",
+          title: 'Invited Lecture at SeaClear 2.0 Winter School 2026',
           description: "Technical University of Munich SeaClear2.0 Winter School",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SeaClear/";
