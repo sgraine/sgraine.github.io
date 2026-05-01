@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Underwater Scene Understanding]
+display_categories: [Invited Talks, Engagement, Field Work, Mentoring]
 horizontal: false
 ---
 
