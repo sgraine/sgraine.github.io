@@ -2,7 +2,7 @@
 layout: page
 title: Keynote at SPIN 2025
 description: Keynote address - 12th International Conference on Signal Processing and Integrated Networks, 2025
-img:
+img: assets/img/SPIN-keynote.jfif
 importance: 3
 category: Invited Talks
 ---
