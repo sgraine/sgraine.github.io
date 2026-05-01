@@ -447,11 +447,6 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -477,6 +472,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SPIN-keynote/";
             },},{id: "teachings-egb120-foundations-of-electrical-engineering",
           title: 'EGB120 - Foundations of Electrical Engineering',
           description: "In this foundational engineering unit you will learn concepts around the relationship between electrical energy, electronic instrumentation and measurements. This is key to begin your journey towards being a professional engineer. This unit introduces techniques for circuit analysis, instruments for measurement and practical applications in an engineering context. The ability to analyse and understand electrical circuits and related concepts plays a key role in most engineering disciplines and is highly useful not only for electrical engineers (electronics and mechatronic) but also for mechanical, biomedical, aerospace, and materials engineers. EGB120 combines real-world focused lectures, tutorials and practicals to give a hands-on experience learning about these fundamental skills. The concepts in this unit will be built upon in future engineering units and teach key fundamental concepts relevant to all engineering majors.",
