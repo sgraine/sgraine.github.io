@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Outreach
 permalink: /projects/
 description: 
 nav: true
