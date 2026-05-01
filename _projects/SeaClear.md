@@ -2,7 +2,7 @@
 layout: page
 title: Invited Lecture at SeaClear 2.0 Winter School 2026
 description: Technical University of Munich SeaClear2.0 Winter School
-img:
+img: assets/img/SeaClear-lecture-1.jfif
 importance: 1
 category: Invited Talks
 ---
@@ -12,22 +12,22 @@ The Winter School was organised by teh Technical University of Munich and hosted
 
 My Lecture was on the topic: _"Underwater Computer Vision for Ecosystem Monitoring and Reef Restoration: Real-World Challenges and Label Scarcity"_.
 
-I was honoured to be fully supported to travel from Australia to Germany to attend, and wish to thank the organisers and speakers: Stefan Sosnowski, Lucian Busoniu, Gerard Ciurana Caire, Nikolas Dahn, Ivana Palunko, Domagoj Tolic, Nathalie Bauschmann, Hatem Sultan.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-1.jfif" title="SeaClear Lecture" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+</div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-2.jfif" title="SeaClear Lab Visit to TUM" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-3.jfif" title="SeaClear Group Photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Some photos from the SeaClear Winter School. 
-</div>
+
+I was honoured to be fully supported to travel from Australia to Germany to attend, and wish to thank the organisers and speakers: Stefan Sosnowski, Lucian Busoniu, Gerard Ciurana Caire, Nikolas Dahn, Ivana Palunko, Domagoj Tolic, Nathalie Bauschmann, Hatem Sultan.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
