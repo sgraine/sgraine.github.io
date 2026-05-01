@@ -16,13 +16,13 @@ I was honoured to be fully supported to travel from Australia to Germany to atte
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Seaclear-lecture-1.jfif" title="SeaClear Lecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-1.jfif" title="SeaClear Lecture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Seaclear-lecture-2.jfif" title="SeaClear Lab Visit to TUM" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-2.jfif" title="SeaClear Lab Visit to TUM" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Seaclear-lecture-3.jfif" title="SeaClear Group Photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-3.jfif" title="SeaClear Group Photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,6 +31,6 @@ I was honoured to be fully supported to travel from Australia to Germany to atte
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Seaclear-lecture-4.jfif" title="SeaClear Lecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SeaClear-lecture-4.jfif" title="SeaClear Lecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
