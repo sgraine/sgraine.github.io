@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outreach
-permalink: /projects/
+permalink: /outreach/
 description: 
 nav: true
 nav_order: 3
