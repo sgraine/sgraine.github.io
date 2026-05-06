@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/www.scarlettraine.com/marine-robotics-seminars/";
           },
+        },{id: "nav-supervision",
+          title: "Supervision",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/supervision/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
