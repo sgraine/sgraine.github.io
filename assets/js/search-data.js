@@ -432,7 +432,9 @@ ninja.data = [{
             },},{id: "news-awarded-the-atse-technology-scholarship-to-attend-science-meets-parliament-2026",
           title: 'Awarded the ATSE Technology Scholarship to attend Science Meets Parliament 2026!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
