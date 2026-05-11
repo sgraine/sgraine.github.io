@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-11'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
     citations: 18
@@ -22,7 +22,7 @@ papers:
     title: How AI and robotics are revolutionising ocean conservation
     year: '2025'
   sC-FrLEAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: 'Automated Coral Spawn Monitoring for Reef Restoration: The Coral Spawn and Larvae Imaging Camera System (CSLICS)'
     year: '2026'
   sC-FrLEAAAAJ:Y0pCki6q_DkC:
@@ -42,7 +42,7 @@ papers:
     title: DeepSeagrass Dataset
     year: '2021'
   sC-FrLEAAAAJ:eQOLeE2rZwMC:
-    citations: 3
+    citations: 4
     title: 'AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring'
     year: '2026'
   sC-FrLEAAAAJ:qjMakFHDy7sC:
@@ -54,7 +54,7 @@ papers:
     title: "\U0001F3C6 Point label aware superpixels for multi-species segmentation of underwater imagery"
     year: '2022'
   sC-FrLEAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 37
     title: Multi-species seagrass detection and classification from underwater images
     year: '2020'
   sC-FrLEAAAAJ:ufrVoPGSRksC:
