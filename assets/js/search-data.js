@@ -434,6 +434,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-workshop-accepted-at-rss-2026-in-sydney",
+          title: 'Workshop Accepted at RSS 2026 in Sydney!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
