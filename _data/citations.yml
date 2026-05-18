@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-18'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
     citations: 18
@@ -58,6 +58,6 @@ papers:
     title: Multi-species seagrass detection and classification from underwater images
     year: '2020'
   sC-FrLEAAAAJ:ufrVoPGSRksC:
-    citations: 0
+    citations: 1
     title: 'Pixi: Unified Software Development and Distribution for Robotics and AI'
     year: '2025'
