@@ -423,7 +423,7 @@ ninja.data = [{
           title: 'Another successful Robotic Vision Summer School!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/RVSS2026/";
             },},{id: "news-invited-as-distinguished-lecturer-at-seaclear-1-0-and-2-0-projects-winter-school",
           title: 'Invited as Distinguished Lecturer at SeaClear 1.0 and 2.0 Projects Winter School',
           description: "",
@@ -438,7 +438,7 @@ ninja.data = [{
           title: 'Workshop Accepted at RSS 2026 in Sydney!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/RSS2026Workshop/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
