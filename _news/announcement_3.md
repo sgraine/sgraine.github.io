@@ -11,3 +11,9 @@ This week I’ve been at the Robotic Vision Summer School (RVSS2026) as part of 
 Huge thanks to the whole team of organisers Tobias Fischer, Donald Dansereau, Feras Dayoub, Therese Joseph, Nicolás Marticorena Vidal, Jennifer Wakulicz as well as Niko Sünderhauf and Dimity Miller. Much appreciated Peter Corke, Simon Lucey, Tom Drummond and Dana Kulic for your great lectures and Thierry Peynot, Sue Keay and Richard Hartley for your deep dives. The biggest thankyou to our amazing cohort of attendees for your enthusiasm, passion and for such a fun week ✨
 
 Learn more about the Robotic Vision Summer School [here!](https://www.rvss.org.au/)
+
+![RVSS 2026](/assets/img/rvss2026.jpeg)
+
+![RVSS 2026](/assets/img/rvss2026-2.jpeg)
+
+![RVSS 2026](/assets/img/rvss2026-3.jpeg)
