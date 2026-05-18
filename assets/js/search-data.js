@@ -428,7 +428,7 @@ ninja.data = [{
           title: 'Invited as Distinguished Lecturer at SeaClear 1.0 and 2.0 Projects Winter School',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/SeaClearWinterSchool/";
             },},{id: "news-awarded-the-atse-technology-scholarship-to-attend-science-meets-parliament-2026",
           title: 'Awarded the ATSE Technology Scholarship to attend Science Meets Parliament 2026!',
           description: "",
