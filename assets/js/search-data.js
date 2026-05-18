@@ -433,7 +433,7 @@ ninja.data = [{
           title: 'Awarded the ATSE Technology Scholarship to attend Science Meets Parliament 2026!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/ATSEScienceMeetsParliament/";
             },},{id: "news-workshop-accepted-at-rss-2026-in-sydney",
           title: 'Workshop Accepted at RSS 2026 in Sydney!',
           description: "",
