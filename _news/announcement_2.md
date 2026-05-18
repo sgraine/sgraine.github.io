@@ -20,11 +20,15 @@ A few more of my favourite moments:
 
 I also had the opportunity to present my research on underwater computer vision, and really enjoyed the longer form lecture style, for which I developed some interactive tools to help with intuitively understanding feature extractors and unpacking error types in underwater object detection (thanks to my student Melanie Wille for her support with this)! 
 
-![SeaClear 2026](/assets/img/seaclear-2.jpeg)
+<img src="/assets/img/seaclear-2.jpeg"
+     alt="SeaClear 2026"
+     style="max-width:800px; width:100%; height:auto; display:block; margin:1rem auto;">
 
 Overall a great week had, thanks again and I will head back to Australia with many new marine robotics ideas and friends ✨ 
 
 Speakers and organisers: Stefan Sosnowski, Lucian Busoniu, Gerard Ciurana Caire, Nikolas Dahn, Ivana Palunko, Domagoj Tolic, Nathalie Bauschmann, Hatem Sultan.  
 
-![SeaClear 2026](/assets/img/seaclear.jpeg)
+<img src="/assets/img/seaclear.jpeg"
+     alt="SeaClear 2026"
+     style="max-width:800px; width:100%; height:auto; display:block; margin:1rem auto;">
 
