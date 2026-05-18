@@ -24,3 +24,5 @@ Overall a great week had, thanks again and I will head back to Australia with ma
 
 Speakers and organisers: Stefan Sosnowski, Lucian Busoniu, Gerard Ciurana Caire, Nikolas Dahn, Ivana Palunko, Domagoj Tolic, Nathalie Bauschmann, Hatem Sultan.  
 
+![SeaClear 2026](/assets/img/seaclear.jpeg)
+
