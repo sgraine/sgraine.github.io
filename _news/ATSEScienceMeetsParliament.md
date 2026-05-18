@@ -43,7 +43,7 @@ Acknowledging support from, and research collaborations with:
 - Australian Institute of Marine Science
 
 
-<img src="/assets/img/smp-4.jpeg"
+<img src="/assets/img/smp-4.jpg"
      alt="SMP 2026"
      style="max-width:800px; width:100%; height:auto; display:block; margin:1rem auto;">
 
