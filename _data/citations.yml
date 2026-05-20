@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-20'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
     citations: 18
     title: Human-in-the-Loop Segmentation of Multi-species Coral Imagery
     year: '2024'
   sC-FrLEAAAAJ:9yKSN-GCB0IC:
-    citations: 16
+    citations: 17
     title: Image labels are all you need for coarse seagrass segmentation
     year: '2024'
   sC-FrLEAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +42,7 @@ papers:
     title: DeepSeagrass Dataset
     year: '2021'
   sC-FrLEAAAAJ:eQOLeE2rZwMC:
-    citations: 4
+    citations: 5
     title: 'AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring'
     year: '2026'
   sC-FrLEAAAAJ:qjMakFHDy7sC:
@@ -50,7 +50,7 @@ papers:
     title: 'Towards Dynamic Adaptation of Marine Surveys: Leveraging Fine-grained Segmentation from Sparse Labels'
     year: '2021'
   sC-FrLEAAAAJ:u-x6o8ySG0sC:
-    citations: 30
+    citations: 31
     title: "\U0001F3C6 Point label aware superpixels for multi-species segmentation of underwater imagery"
     year: '2022'
   sC-FrLEAAAAJ:u5HHmVD_uO8C:
