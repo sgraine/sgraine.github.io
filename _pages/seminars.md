@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Seminar Series
-permalink: https://www.scarlettraine.com/marine-robotics-seminars/
-description: 
+permalink: /marine-robotics-seminars/
 nav: true
 nav_order: 6
-display_categories:
-horizontal: false
+external_url: https://www.scarlettraine.com/marine-robotics-seminars/
+open_in_new_tab: true
 ---
-
