@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/www.scarlettraine.com/marine-robotics-seminars/";
+            window.location.href = "/marine-robotics-seminars/";
           },
         },{id: "nav-supervision",
           title: "Supervision",
