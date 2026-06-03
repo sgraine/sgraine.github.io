@@ -26,7 +26,13 @@ You can see a recording of my pitch here:
   </div>
 </div>
 
-The work was also presented at a poster session on Wednesday in the main track of ICRA.
+Thanks so much to Melanie Wille for representing me on the day at ICRA - for presenting my pitch and accepting this award on my behalf!
+
+<img src="/assets/img/IEEE-RAS-Award.jpg"
+     alt="IEEE-RAS Outstanding WiRA Early Career Contribution Award at ICRA 2026"
+     style="max-width:800px; width:100%; height:auto; display:block; margin:1rem auto;">
+
+The work was also presented at a poster session on Wednesday in the main track of ICRA - thanks to Tobias Fischer for presenting at the interactive session.
 
 Acknowledging the many co-authors and collaborators of this work: Dorian Tsai, Christopher A. Brunner, Riki Lamont, F. Mikaela Nordborg, Andrea Severati, Java Terry, Karen Jackel, Matthew Dunbabin, Tobias Fischer, Scarlett Raine.
 
