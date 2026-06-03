@@ -439,8 +439,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/RSS2026Workshop/";
-            },},{id: "news-finalist-for-ieee-ras-outstanding-wira-early-career-contribution-award-at-icra-2026",
-          title: 'Finalist for IEEE-RAS Outstanding WiRA Early Career Contribution Award at ICRA 2026!',
+            },},{id: "news-winner-of-the-ieee-ras-outstanding-wira-early-career-contribution-award-at-icra-2026",
+          title: 'Winner of the IEEE-RAS Outstanding WiRA Early Career Contribution Award at ICRA 2026!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/IEEERASAward/";
