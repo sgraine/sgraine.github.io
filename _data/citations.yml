@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-05'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
-    citations: 18
+    citations: 19
     title: Human-in-the-Loop Segmentation of Multi-species Coral Imagery
     year: '2024'
   sC-FrLEAAAAJ:9yKSN-GCB0IC:
@@ -13,6 +13,10 @@ papers:
     citations: 5
     title: 'Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications'
     year: '2024'
+  sC-FrLEAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Artificial Intelligence and Machine Learning for Australian Marine Science
+    year: '2026'
   sC-FrLEAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: "\U0001F3C6 Weakly Supervised Segmentation of Underwater Imagery"
@@ -23,7 +27,7 @@ papers:
     year: '2025'
   sC-FrLEAAAAJ:WF5omc3nYNoC:
     citations: 3
-    title: 'Automated Coral Spawn Monitoring for Reef Restoration: The Coral Spawn and Larvae Imaging Camera System (CSLICS)'
+    title: "\U0001F3C6 Automated Coral Spawn Monitoring for Reef Restoration: The Coral Spawn and Larvae Imaging Camera System (CSLICS)"
     year: '2026'
   sC-FrLEAAAAJ:Y0pCki6q_DkC:
     citations: 2
@@ -50,11 +54,11 @@ papers:
     title: 'Towards Dynamic Adaptation of Marine Surveys: Leveraging Fine-grained Segmentation from Sparse Labels'
     year: '2021'
   sC-FrLEAAAAJ:u-x6o8ySG0sC:
-    citations: 31
+    citations: 32
     title: "\U0001F3C6 Point label aware superpixels for multi-species segmentation of underwater imagery"
     year: '2022'
   sC-FrLEAAAAJ:u5HHmVD_uO8C:
-    citations: 37
+    citations: 38
     title: Multi-species seagrass detection and classification from underwater images
     year: '2020'
   sC-FrLEAAAAJ:ufrVoPGSRksC:
