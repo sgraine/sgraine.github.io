@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 20
     title: Human-in-the-Loop Segmentation of Multi-species Coral Imagery
     year: '2024'
   sC-FrLEAAAAJ:9yKSN-GCB0IC:
@@ -53,6 +53,10 @@ papers:
     citations: 0
     title: 'Towards Dynamic Adaptation of Marine Surveys: Leveraging Fine-grained Segmentation from Sparse Labels'
     year: '2021'
+  sC-FrLEAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Translation to Deployment (T2D-01)
+    year: '2025'
   sC-FrLEAAAAJ:u-x6o8ySG0sC:
     citations: 32
     title: "\U0001F3C6 Point label aware superpixels for multi-species segmentation of underwater imagery"
