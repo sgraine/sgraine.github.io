@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
-    citations: 21
+    citations: 20
     title: Human-in-the-Loop Segmentation of Multi-species Coral Imagery
     year: '2024'
   sC-FrLEAAAAJ:9yKSN-GCB0IC:
-    citations: 17
+    citations: 18
     title: Image labels are all you need for coarse seagrass segmentation
     year: '2024'
   sC-FrLEAAAAJ:IjCSPb-OGe4C:
@@ -66,11 +66,11 @@ papers:
     title: Translation to Deployment (T2D-01)
     year: '2025'
   sC-FrLEAAAAJ:u-x6o8ySG0sC:
-    citations: 32
+    citations: 31
     title: "\U0001F3C6 Point label aware superpixels for multi-species segmentation of underwater imagery"
     year: '2022'
   sC-FrLEAAAAJ:u5HHmVD_uO8C:
-    citations: 39
+    citations: 40
     title: Multi-species seagrass detection and classification from underwater images
     year: '2020'
   sC-FrLEAAAAJ:ufrVoPGSRksC:
