@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-07'
 papers:
   sC-FrLEAAAAJ:2osOgNQ5qMEC:
     citations: 20
@@ -66,7 +66,7 @@ papers:
     title: Translation to Deployment (T2D-01)
     year: '2025'
   sC-FrLEAAAAJ:u-x6o8ySG0sC:
-    citations: 31
+    citations: 32
     title: "\U0001F3C6 Point label aware superpixels for multi-species segmentation of underwater imagery"
     year: '2022'
   sC-FrLEAAAAJ:u5HHmVD_uO8C:
