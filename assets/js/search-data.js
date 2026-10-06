@@ -444,6 +444,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/IEEERASAward/";
+            },},{id: "news-voyage-on-board-the-national-marine-facility-39-s-rv-investigator",
+          title: 'Voyage On Board the National Marine Facility&amp;#39;s RV Investigator',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/investigator/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
